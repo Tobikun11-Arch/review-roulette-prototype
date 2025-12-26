@@ -20,19 +20,19 @@ Design perfection is not the goal — the focus is on **logic, structure, user f
 
 First, install dependencies:
 npm install
-# or
+or
 yarn install
-# or
+or
 pnpm install
-# or
+or
 bun install
 
 
 ## Run the development server:
 npm run dev
-# or
+or
 yarn dev
-# or
+or
 pnpm dev
-# or
+or
 bun dev
